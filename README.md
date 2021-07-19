@@ -1,4 +1,4 @@
-# murach_mysql_and_php_ch16 #
+# murach_php_and_mysql_ch16 #
 Murach's PHP and MYSQL (3rd Edition), Chapter 16 Exercises
 
 ## Exercise 16-1 Create a database diagram from a SQL script ##
